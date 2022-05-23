@@ -1,0 +1,10 @@
+.createPost{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+.beside{
+    display: inline-block;
+    margin-left: 30px;
+}

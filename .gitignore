@@ -1,0 +1,5 @@
+React/node_modules/
+Django/env/
+Django/db.sqlite3
+.DS_Store
+React/.env
